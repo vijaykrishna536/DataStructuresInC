@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1549081123 source:e:\c code\file handling\main.c
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<math.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

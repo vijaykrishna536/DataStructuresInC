@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546632288 source:e:\c code\header double linked list adt\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558852140 source:e:\c code\linked list adt\main.c
+	<stdio.h>
+	<stdlib.h>
+

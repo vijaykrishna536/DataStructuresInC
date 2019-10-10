@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546714539 source:e:\c code\circular double linked list adt\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1546800933 source:e:\c code\stack two sided array adt\main.c
+	<stdio.h>
+	<stdlib.h>
+
